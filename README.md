@@ -4,7 +4,7 @@ A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and Java
 
 ## 🔗 Live Preview
 
-You can open the game in your browser from this link: []
+You can open the game in your browser from this link: [https://adeeba383.github.io/Rock-Paper-Scissor-Game/]
 
 
 ## 🎮 Features
